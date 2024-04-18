@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "a1",
+      "request": "launch",
+      "mainClass": "a1",
+      "projectName": "Java Programming_4b927454"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "Java Programming_4b927454"
+    },
+    {
+      "type": "java",
+      "name": "jumpGame4",
+      "request": "launch",
+      "mainClass": "jumpGame4",
+      "projectName": "Java Programming_4b927454"
+    },
+    {
+      "type": "java",
       "name": "MergeInplace",
       "request": "launch",
       "mainClass": "MergeInplace",
