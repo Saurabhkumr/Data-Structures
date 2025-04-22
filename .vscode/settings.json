@@ -1,6 +1,7 @@
 {
   "java.project.sourcePaths": [
-    "src"
+    "src",
+    "revision"
   ],
   "java.project.outputPath": "bin",
   "java.project.referencedLibraries": [

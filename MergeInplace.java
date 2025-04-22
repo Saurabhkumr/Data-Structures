@@ -17,7 +17,7 @@ public class MergeInplace {
 
         int mid = (s + e) / 2;
 
-        sort(arr, 0, mid);
+        sort(arr, s, mid);
         sort(arr, mid, e);
         merge(arr, s, e, mid);
 

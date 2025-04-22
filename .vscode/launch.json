@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "permutation",
+      "request": "launch",
+      "mainClass": "permutation",
+      "projectName": "Java Programming_4b927454"
+    },
+    {
+      "type": "java",
+      "name": "SleepSort",
+      "request": "launch",
+      "mainClass": "SleepSort",
+      "projectName": "Java Programming_4b927454"
+    },
+    {
+      "type": "java",
+      "name": "ThreadSort",
+      "request": "launch",
+      "mainClass": "ThreadSort",
+      "projectName": "Java Programming_4b927454"
+    },
+    {
+      "type": "java",
+      "name": "thread_sort",
+      "request": "launch",
+      "mainClass": "thread_sort",
+      "projectName": "Java Programming_4b927454"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "Java Programming_4b927454"
+    },
+    {
+      "type": "java",
       "name": "a1",
       "request": "launch",
       "mainClass": "a1",
